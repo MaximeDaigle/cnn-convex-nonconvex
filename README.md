@@ -6,3 +6,5 @@ note: in the paper, they used 8000 train examples and 50000 test examples. I rev
 
 convex nonconvex dataset and paper from: 
 http://www.iro.umontreal.ca/~lisa/twiki/bin/view.cgi/Public/DeepVsShallowComparisonICML2007#Downloadable_datasets
+
+http://www.dmi.usherb.ca/~larocheh/publications/deep-nets-icml-07.pdf
